@@ -1,0 +1,23 @@
+1. A GitHub directory is a container in a GitHub repository that can hold multiple files. 
+Directories can be used to organize and structure the files within a repository. 
+Directories can also contain subdirectories, allowing for even more organization.
+
+Each file within a GitHub directory has a unique file name and can be individually edited, commented on, and tracked for changes.
+When you make changes to a file in a GitHub repository, those changes are stored in a new commit that is linked to the file. 
+You can also view the history of changes made to a file and revert to an earlier version if necessary.
+
+2. It is useful in several ways:
+
+Collaboration: GitHub makes it easy for multiple people to collaborate on the same codebase. Each user can make their own changes, which can be reviewed and merged into the main codebase by a project maintainer.
+
+Backup and History: GitHub stores every change made to the codebase, allowing developers to go back in time to see how the code evolved and recover from mistakes.
+Code Review: GitHub provides tools for reviewing code changes and discussing them with team members. This helps to catch bugs, improve code quality, and ensure that the code follows best practices.
+
+Issue Tracking: GitHub provides a system for tracking bugs and feature requests, making it easier for teams to prioritize and manage their work.
+
+Project Management: GitHub can be used to manage the entire software development life cycle, from planning and prioritizing work, to coding, testing, and deployment.
+
+Open-Source Contributions: GitHub is a popular platform for hosting open-source projects, and it provides an easy way for contributors to submit changes and participate in the development process.
+
+3. My favorite medium is through digital creation with programs such as illustrator, or premier pro. I love the versitility that these programs offer and the conveyence of the art in the final product. 
+
