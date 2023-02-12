@@ -1,0 +1,7 @@
+1. The relationship between an IP address and the Domain Name System (DNS) is that the DNS is used to map human-readable domain names to their corresponding IP addresses.
+
+An IP address is a numerical label assigned to each device connected to the internet, which serves as the device's identifier and location.
+
+2. A cookie is a small text file that a website stores on a user's device when they visit the site. Cookies are used to remember user preferences, login information, and shopping cart contents, among other things.
+
+3. Protocol, Domain Name and Path
