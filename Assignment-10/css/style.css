@@ -1,0 +1,63 @@
+body {
+	background-color: #4b4a4a;
+	font-family: Arial, sans-serif;
+	text-align: center;
+
+}
+
+div {
+
+	border: 5px solid #3a1e1e
+	
+}
+
+img{
+	
+	border-radius: 50%;
+	border: 5px solid #4b4a4a;
+	background-color: #3a1e1e;
+}
+
+.logo {
+	
+	height: 700px;
+	width: 700px;
+	display: inline;
+}
+
+#title {
+	font-size: 50px;
+	background-color:#4b4a4a
+
+	
+}
+
+.palette {
+	background-color: rgb(128, 130, 132);
+}
+.dot{
+	height: 100px;
+	width: 100px;
+	border-radius: 50px;
+	display:inline-block;
+}
+
+.dot.one {
+	background-color: #3a1e1e;
+	
+}
+
+.dot.two {
+	background-color: #4b4a4a;
+	
+}
+
+.dot.three {
+	background-color: #9d2121;
+	
+}
+
+.dot.four {
+	background-color: #000000;
+	
+}
