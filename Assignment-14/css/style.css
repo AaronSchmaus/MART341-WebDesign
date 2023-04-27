@@ -39,7 +39,7 @@ body {
 	font-family: Arial, sans-serif;
 	text-align: center;
 	background-color: #4b4a4a;
-	background-image: url(../image/back.JPG);
+	background-image: ../image/back.JPG;
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
