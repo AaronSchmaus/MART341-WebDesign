@@ -1,14 +1,13 @@
 # Read Me File
 
 ## Forms
-What is the goal of your website? (Think in terms of your user -- why might they visit your site?)
+-How did your user testing sessions go?
+-What changes (if any) did you make to your website based on the user feedback you received?
+-Optional: What challenges did you face this week, and how did you overcome them?
 
-The goal of my site is to highlight my podcast and some of the videos that I have created. Hopefully, the user would find that the site is clean, easy to navigate, and would find the content entertaining. 
-
-Why is responsive web design important?
-
-Responsive web design is important because it allows a website to adapt and adjust to the screen size and device type that a user is viewing it on. With the increasing variety of devices that people use to access the internet, it has become essential for websites to be designed to accommodate this variety.
-
-This would create a better user experience, SEO and more cost effective since you don't have to have seperate websites for the different devices. 
+-I thought that the testing went pretty well. It was interesting to get other people's perspectives on the site. 
+-I changed the background from a grey color to a picture background but I left the grey as a backup background just in case. 
+-I faced a few challenges that I will probably be scheduling a zoom meeting for to make sure things work better.  One of the challenges was 
+the media queries. I was able to figure out how to get the background to change with the size of the screen but I wasn't able to get the spinning pictures on the homepage to change. 
 
 ![Screenshot](./Image/work.png)
