@@ -41,7 +41,7 @@ body {
 	
 	font-family: Arial, sans-serif;
 	text-align: center;
-	background-color: #4b4a4a;
+	background-color: #a9a9a9;
 	background-image: url(../image/back.JPG);
 	background-size: 100%;
 	background-repeat: no-repeat;
@@ -57,14 +57,6 @@ body {
     color: #E81C23;
 }
 
-
-
-.logo {
-	
-	height: 700px;
-	width: 700px;
-	display: inline;
-}
 
 #title {
 	font-size: 50px;
