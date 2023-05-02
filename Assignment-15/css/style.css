@@ -73,38 +73,10 @@ body {
 }
 
 #body{
-	background-color: #797676;
+	background-color: #a9a9a9;
 }
 
-.palette {
-	background-color: rgb(128, 130, 132);
-}
-.dot{
-	height: 100px;
-	width: 100px;
-	border-radius: 50px;
-	display:inline-block;
-}
 
-.dot.one {
-	background-color: #3a1e1e;
-	
-}
-
-.dot.two {
-	background-color: #4b4a4a;
-	
-}
-
-.dot.three {
-	background-color: #9d2121;
-	
-}
-
-.dot.four {
-	background-color: #000000;
-	
-}
 
 /* Menu*/
 header{
